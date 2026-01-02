@@ -1,4 +1,4 @@
-package de.dergenaue.brownianparticles;
+package io.github.dergenaue.brownianparticles;
 
 import android.content.SharedPreferences;
 import android.graphics.Color;

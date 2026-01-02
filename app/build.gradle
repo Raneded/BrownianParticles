@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace = "de.dergenaue.brownianparticles"
+    namespace = "io.github.dergenaue.brownianparticles"
     compileSdkVersion 23
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "de.dergenaue.brownianparticles"
+        applicationId "io.github.dergenaue.brownianparticles"
         minSdkVersion 8
         targetSdkVersion 22
         versionCode 1

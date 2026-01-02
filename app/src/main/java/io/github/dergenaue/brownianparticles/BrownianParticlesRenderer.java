@@ -1,4 +1,4 @@
-package de.dergenaue.brownianparticles;
+package io.github.dergenaue.brownianparticles;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
