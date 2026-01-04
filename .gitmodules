@@ -1,0 +1,3 @@
+[submodule "app/libs/GLWallpaperService"]
+	path = app/libs/GLWallpaperService
+	url = https://github.com/GLWallpaperService/GLWallpaperService.git
