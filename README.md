@@ -10,4 +10,6 @@ After getting a new phone, having to refresh the app anyways, and showing the wa
 
 The live wallpaper is highly optimized, running on the GPU, to keep the battery drainage as minimal as possible.
 
+To set it up, you might need to use a Wallpaper app (eg. the Google one) since some launchers don't allow installing live wallpapers.
+
 ![1.jpg](metadata/en-US/images/phoneScreenshots/1.jpg)

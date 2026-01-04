@@ -3,3 +3,5 @@ This is an Android Live Wallpaper that simulates the appearance of the Brownian 
 Such observations are a classical physics experiment, but also used eg. in microrheology to measure the viscosity of mucus.
 
 The live wallpaper is highly optimized, running on the GPU, to keep the battery drainage as minimal as possible.
+
+To set it up, you might need to use a Wallpaper app (eg. the Google one) since some launchers don't allow installing live wallpapers.
